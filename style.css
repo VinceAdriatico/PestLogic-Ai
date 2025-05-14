@@ -24,4 +24,7 @@ header {
   header {
     background-image: url("./PestLogicAi-Mobile.png");
   }
+  main {
+    width: 100%; 
+  }
 }
